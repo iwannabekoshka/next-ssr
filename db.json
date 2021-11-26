@@ -1,0 +1,34 @@
+{
+    "posts": [
+        {
+            "id": 0,
+            "title": "Koshkas took over the world?!",
+            "text": "Yep thats right. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea dignissimos quos sapiente magnam veritatis odio modi beatae debitis explicabo vitae."
+        },
+        {
+            "id": 1,
+            "title": "Some cool cats",
+            "text": "Rickrolled lol. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea dignissimos quos sapiente magnam veritatis odio modi beatae debitis explicabo vitae."
+        },
+        {
+            "id": 2,
+            "title": "Koshkas took over the world?!",
+            "text": "Yep thats right. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea dignissimos quos sapiente magnam veritatis odio modi beatae debitis explicabo vitae."
+        },
+        {
+            "id": 3,
+            "title": "Some cool cats",
+            "text": "Rickrolled lol. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea dignissimos quos sapiente magnam veritatis odio modi beatae debitis explicabo vitae."
+        },
+        {
+            "id": 4,
+            "title": "Koshkas took over the world?!",
+            "text": "Yep thats right. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea dignissimos quos sapiente magnam veritatis odio modi beatae debitis explicabo vitae."
+        },
+        {
+            "id": 5,
+            "title": "Some cool cats",
+            "text": "Rickrolled lol. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea dignissimos quos sapiente magnam veritatis odio modi beatae debitis explicabo vitae."
+        }
+    ]
+}
